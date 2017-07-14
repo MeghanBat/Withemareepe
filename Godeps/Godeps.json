@@ -1,7 +1,7 @@
 {
 	"ImportPath": "github.com/MeghanBat/Withemareepe",
 	"GoVersion": "go1.8.3",
-	"GodepVersion": "v104",
+	"GodepVersion": "v184",
 	"Deps": [
 		{
 			"ImportPath": "github.com/PuerkitoBio/goquery"
