@@ -7,7 +7,7 @@ import (
 	"github.com/jpillora/opts"
 )
 
-var VERSION = "0.0.0-src" //set with ldflags
+var VERSION = "0.8.20-src" //set with ldflags
 
 func main() {
 	s := server.Server{
