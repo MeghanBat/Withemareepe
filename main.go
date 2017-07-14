@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Aithaks/Kmanst/server"
+	"github.com/MeghanBat/Withemareepe/server"
 	"github.com/jpillora/opts"
 )
 
